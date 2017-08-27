@@ -5,12 +5,14 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+# theme                    : minimal-mistakes-jekyll
+
 # Site Settings
-locale                   : "en"
-title                    : "Site Title"
+locale                   : "de"
+title                    : "Einbacker Software"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Gerriet Backer"
+description              : "Einbacker Software, Dr. Gerriet Backer, Freelancer."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -55,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : gerriet
 facebook:
   username               :
   app_id                 :
@@ -77,11 +79,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Gerriet Backer"
+  avatar           : "/assets/images/gb.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Softwareentwickler"
+  location         : "Einbeck"
+  email            : gerriet@einbacker.com
   uri              :
   bitbucket        :
   codepen          :
@@ -89,7 +91,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : gerriet
   gitlab           :
   google_plus      :
   keybase          :
@@ -101,7 +103,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : gerriet
   vine             :
   weibo            :
   xing             :
@@ -136,6 +138,7 @@ exclude:
   - Rakefile
   - README
   - tmp
+  - /material
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
 keep_files:
@@ -179,7 +182,7 @@ timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
