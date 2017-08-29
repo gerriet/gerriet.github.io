@@ -3,6 +3,7 @@ layout: single
 title: "Kontakt"
 permalink: /contact
 ---
+Was kann ich für Sie tun? Am besten schreiben Sie mir kurz, worum es geht und wir verabreden ein Telefonat, in dem wir unverbindlich unsere Zusammenarbeit besprechen können.
 
 * Email: [gerriet@einbacker.com](mailto:gerriet@einbacker.com)
 * Telefon: 05561/6092694 
