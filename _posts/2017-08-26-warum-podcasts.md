@@ -13,6 +13,8 @@ _Gibt es das nicht auch im Radio?_
 
 Ja, manche finden dies vielleicht im Medium Radio, aber da muss man doch sehr lange suchen, um vom Standardgedudel und -gequatsche weg zu kommen. Und dann ist da eben noch das Synchrone: wenn ich mir die Sendung nicht aus einer Mediathek holen will (und dann ist es fast schon ein Podcast), muss ich zur richtigen Zeit am Radio sitzen - schwierig. Das Modell stirbt wohl langsam aus. 
 
+Ein Gegenbeispiel wäre jetzt zum etwa [Spreeblick bei fluxfm](https://www.fluxfm.de/improgramm/spreeblick/). 
+
 _Wie schaffst Du es, jede Woche über 10 Stunden Podcasts zu hören?_
 
 Zuerst mal gibt es viele Gelegenheiten, Podcasts zu hören. Meine drei wichtigsten: beim Autofahren, beim Sport und bei der Hausarbeit. Da kommen bei mir schon etwa 9 Stunden in der Woche zusammen. Dann gibt es in meinem Lieblingspodcastplayer [Overcast](https://overcast.fm) (von Marco Arment) zwei Features, die mir erlauben, in derselben Zeit mehr Podcasts zu hören:
