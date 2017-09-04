@@ -3,6 +3,7 @@ layout: single
 title:  "Was ist „Diese Woche in Podcasts“ und warum?"
 date:   2017-08-27 11:56:44 +0200
 categories: podcasts
+excerpt: "Fragen und Antworten zur Blogreihe 'Diese Woche in Podcasts'"
 ---
 _Warum Podcasts als Medium?_
 
