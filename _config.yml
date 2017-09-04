@@ -13,9 +13,9 @@ title                    : "Einbacker Software"
 title_separator          : "-"
 name                     : "Gerriet Backer"
 description              : "Einbacker Software, Dr. Gerriet Backer, Freelancer."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://gerriet.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "gerriet/gerriet.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -95,18 +95,18 @@ author:
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : 
   lastfm           :
   linkedin         :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  stackoverflow    : "4883924/gerriet" #(the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
   twitter          : gerriet
   vine             :
   weibo            :
-  xing             :
+  xing             : "Gerriet_Backer"
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
 

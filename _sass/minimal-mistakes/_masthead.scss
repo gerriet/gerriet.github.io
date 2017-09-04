@@ -10,6 +10,7 @@
   -webkit-animation-delay: 0.15s;
           animation-delay: 0.15s;
   z-index: 20;
+  background: $lighter-gray;
 
   &__inner-wrap {
     @include clearfix;
@@ -46,6 +47,8 @@
         align-items: center;
   font-weight: bold;
   z-index: 20;
+  background: $lighter-gray;
+
 }
 
 .masthead__menu {
@@ -54,6 +57,7 @@
   margin-right: 0;
   width: 100%;
   clear: both;
+  background: $lighter-gray;
 
   .site-nav {
     margin-left: 0;
@@ -75,6 +79,7 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+  background: $lighter-gray;
 
   &--lg {
     padding-right: 2em;
