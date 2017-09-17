@@ -2,6 +2,8 @@
 permalink: /about/
 title: "Über mich"
 layout: single
+#header: 
+#    image: /assets/images/altes_rathaus_breit.jpg
 ---
 
 Hallo, mein Name ist Gerriet Backer, ich bin Softwareentwickler und lebe in Einbeck. 
