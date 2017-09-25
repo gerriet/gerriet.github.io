@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Diese Woche in Podcasts (25.09.17)"
-date:   2017-09-24 20:32:38 +0200
+date:   2017-09-24 19:04:28 +0200
 categories: podcasts
 ---
 
