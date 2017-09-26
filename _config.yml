@@ -17,7 +17,7 @@ url                      : "https://gerriet.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "gerriet/gerriet.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
+breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Gerriet Backer"
-  avatar           : "/assets/images/gb.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/gb_240.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Softwareentwickler"
   location         : "Einbeck"
   email            : gerriet@einbacker.com
@@ -92,10 +92,10 @@ author:
   facebook         :
   foursquare       :
   github           : gerriet
-  gitlab           :
+  gitlab           : # gerriet
   google_plus      :
-  keybase          :
-  instagram        : 
+  keybase          : # gerriet
+  instagram        : # drgerriet
   lastfm           :
   linkedin         :
   pinterest        :
@@ -188,6 +188,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-archives
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -196,7 +197,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
+  - jekyll-archives
 
 # Archives
 #  Type
@@ -233,7 +234,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
 
 # Defaults
 defaults:
