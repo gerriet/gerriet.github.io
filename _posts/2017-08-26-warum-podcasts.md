@@ -32,4 +32,6 @@ Ohne jetzt genaue Zahlen zur Hand zu haben ist die Podcast-Szene in den USA um e
 _Was ist das hier?_
 
 Für alle, die jedoch ungern lange englische Texte hören wollen, schreibe ich hier auf, was sich bei den englischen Podcasts aktuell tut. Natürlich mit den Schwerpunkten, die mich interessieren: Technologie/Computer (mit Fokus auf Apple und Softwareentwicklung), Produktivität, Popkultur/Bücher/Comics/Filme/TV, das Leben und der ganze Rest.
- 
+
+_Update: Mehr Podcasts_
+Ich habe eine [Twitterliste](https://twitter.com/gerriet/lists/podcasts) zusammengestellt, die Podcasts, PodcasterInnen und Podcastnetzwerke enthält.  
