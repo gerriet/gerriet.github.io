@@ -17,13 +17,13 @@ Ganz allgemein gilt es somit, Tipps, Annahmen, beste Praktiken darauf zu überpr
 
 ![timetable]{: .podcast-image } Manton Reece war bei [Timetable](http://timetable.manton.org/) wieder sehr aktiv: er hat in den letzten drei Wochen täglich (außer am Wochenende) neue kurze Podcasts produziert. Neuerdings experimentiert er - wie ich meine erfolgreich - damit, kurze Ausschnitte anderer Podcasts einzuspielen und dann auf deren Themen einzugehen. Ich hoffe, dass dieses Format auch von anderen übernommen wird. 
 
-![core] {: .podcast-image } Core Intuition feiert [Episode 300](https://coreint.org/2017/10/episode-300-i-just-start-building-it/) und startet gleichzeitig ein [Membership-Programm](https://coreint.org/membership/). Grundsätzlich gefällt mir die Idee, Podcasts direkt zu finanzieren, um die Abhängigkeit von Sponsoren zu verringern und selbst zum Kunden zu werden. Allerdings schaffe ich es so schon kaum, alle Podcasts zu hören, die mich interessieren, so dass Zusatzangebote mit _mehr_ Podcasts mir nicht so attraktiv erscheinen. Mal abwarten. 
+![core]{: .podcast-image } Core Intuition feiert [Episode 300](https://coreint.org/2017/10/episode-300-i-just-start-building-it/) und startet gleichzeitig ein [Membership-Programm](https://coreint.org/membership/). Grundsätzlich gefällt mir die Idee, Podcasts direkt zu finanzieren, um die Abhängigkeit von Sponsoren zu verringern und selbst zum Kunden zu werden. Allerdings schaffe ich es so schon kaum, alle Podcasts zu hören, die mich interessieren, so dass Zusatzangebote mit _mehr_ Podcasts mir nicht so attraktiv erscheinen. Mal abwarten. 
 
 ![mpu]{: .podcast-image } In [Mac Power Users #399](https://www.relay.fm/mpu/399) ist einmal mehr [Merlin Mann](https://twitter.com/hotdogsladies) zu Gast. Schwerpunkte sind iOS 11 und Siri ("der Sprachkram"). Wie immer bei Mac Power Users gibt es reichlich gute Tipps.
 
-![atp] {: .podcast-image } [Accidental Tech Podcast #243](https://atp.fm/episodes/243) ist skeptisch beim Apple HomePod, Apples spätem Zugang zum Markt der "Lady in the tube". Unter #askatp geht es mal um die Kommandozeile. 
+![atp]{: .podcast-image } [Accidental Tech Podcast #243](https://atp.fm/episodes/243) ist skeptisch beim Apple HomePod, Apples spätem Zugang zum Markt der "Lady in the tube". Unter #askatp geht es mal um die Kommandozeile. 
 
-![friday] {: .podcast-image } Die  Oktober-Folgen von [Do by Friday](http://dobyfriday.com) sind sicher nicht für _Anfänger_ geeignet, ebensowenig für HörerInnen, die bei Themen wie Toiletten, Körperflüssigkeiten und Sexualität auch nur ein kleines bisschen empfindlich sind. Lieber frühere Folgen probieren oder erst im November einsteigen.
+![friday]{: .podcast-image } Die  Oktober-Folgen von [Do by Friday](http://dobyfriday.com) sind sicher nicht für _Anfänger_ geeignet, ebensowenig für HörerInnen, die bei Themen wie Toiletten, Körperflüssigkeiten und Sexualität auch nur ein kleines bisschen empfindlich sind. Lieber frühere Folgen probieren oder erst im November einsteigen.
 
 [//]: # (Kommentar)
 
