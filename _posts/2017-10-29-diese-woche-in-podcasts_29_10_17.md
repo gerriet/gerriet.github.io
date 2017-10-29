@@ -15,7 +15,7 @@ In [Free Agents #30](https://relay.fm/freeagents/30) diskutieren sie die Herausf
 
 [Free Agents #32](https://relay.fm/freeagents/32) mit Gast [Kathy Campbell](https://www.relay.fm/people/kathycampbell) berät berät andere Selbständige bei der Organisation ihrer Arbeit und hat dementsprechend viele gute Ideen.
 
-Nachdem ich [letzte Woche](../diese-woche-in-podcasts_15_10_17/2017-10-15-diese-woche-in-podcasts_15_10_17.html) vor [Do by Friday]() _gewarnt_ habe - [hier](https://medium.com/@tkalsey/podcast-prescriptions-do-by-friday-46a57e3f0ea2) ein schöner Artikel über diesen Podcast und allgemeiner, was an Podcasts interessant ist:
+Nachdem ich [letzte Woche](../diese-woche-in-podcasts_15_10_17/) vor [Do by Friday]() _gewarnt_ habe - [hier](https://medium.com/@tkalsey/podcast-prescriptions-do-by-friday-46a57e3f0ea2) ein schöner Artikel über diesen Podcast und allgemeiner, was an Podcasts interessant ist:
 
 > The more I analyse podcasts, the more I realize that the building blocks of any good podcast is simply a good conversation. What makes a podcast great isn’t the concept behind it, but the conversations within each episode.
 
