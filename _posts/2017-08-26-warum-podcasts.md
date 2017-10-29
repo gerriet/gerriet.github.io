@@ -27,11 +27,12 @@ _Warum so viele englischsprachige Podcasts?_
 
 Ohne jetzt genaue Zahlen zur Hand zu haben ist die Podcast-Szene in den USA um ein Vielfaches größer als in Deutschland. Deswegen stehen einfach die Chancen besser, die Kombination eines interessanten Themas, sympathischer SprecherInnen und vernünftiger Produktion zu finden. Aber es gibt natürlich auch sehr schöne deutschsprachige Podcasts. Um nur zwei Beispiele zu nennen:
 - [Die neue Abteilung](https://www.dieneueabteilung.de/podcast/)
-- [Fehlfarben – Ein Kulturpodcast aus München von Anke (@ankegroener), Felix (@sammykuffour) und Florian (@munifornication).](https://fehlfarbenpodcast.wordpress.com)
+- [Fehlfarben](https://fehlfarbenpodcast.wordpress.com) – Ein Kulturpodcast aus München von Anke (@ankegroener), Felix (@sammykuffour) und Florian (@munifornication).
 
 _Was ist das hier?_
 
-Für alle, die jedoch ungern lange englische Texte hören wollen, schreibe ich hier auf, was sich bei den englischen Podcasts aktuell tut. Natürlich mit den Schwerpunkten, die mich interessieren: Technologie/Computer (mit Fokus auf Apple und Softwareentwicklung), Produktivität, Popkultur/Bücher/Comics/Filme/TV, das Leben und der ganze Rest.
+Für alle, die jedoch nicht so gern und lange englische Texte hören wollen, schreibe ich hier auf, was sich bei den englischen Podcasts aktuell tut. Als eine Art Wegweiser zu interessanten Podcasts. Natürlich mit den Schwerpunkten, die mich interessieren: Technologie/Computer (mit Fokus auf Apple und Softwareentwicklung), Produktivität, Popkultur/Bücher/Comics/Filme/TV, das Leben und der ganze Rest.
 
 _Update: Mehr Podcasts_
+
 Ich habe eine [Twitterliste](https://twitter.com/gerriet/lists/podcasts) zusammengestellt, die Podcasts, PodcasterInnen und Podcastnetzwerke enthält.  
