@@ -1,6 +1,6 @@
 ---
 layout: single
-#title:  "Diese Woche in Podcasts (17.12.17)"
+title:  "Diese Woche in Podcasts (17.12.17)"
 date:   2017-12-17 16:00:00 +0200
 categories: podcasts
 ---
