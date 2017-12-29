@@ -4,7 +4,11 @@ main:
     url: /about/
   - title: "Kontakt"
     url: /contact/
-  # - title: "About"
+  - title: "Blog"
+    url: /year-archive/
+#  - title: "Kategorien"
+#    url: /categories/ 
+ # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/

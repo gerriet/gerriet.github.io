@@ -163,8 +163,9 @@
     .page__title,
     .page__meta,
     .page__lead,
+    /* GB291217: color in btn von #fff auf #222 geaendert */
     .btn {
-      color: #fff;
+      color: #777;
       text-shadow: 1px 1px 4px rgba(#000, 0.5);
     }
 
