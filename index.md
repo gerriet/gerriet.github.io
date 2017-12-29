@@ -3,8 +3,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "transparent"
-#  overlay_color: "#fff"
-  overlay_filter: 0.15
+  overlay_filter: 0.05
   overlay_image: /assets/images/einbacker_quer_400.png
   cta_label: "<i class='fa fa-envelope'></i> Kontakt"
   cta_url: "/contact"
@@ -21,7 +20,7 @@ feature_row:
   - image_path: /assets/images/vision_500_-_pexels-132700.jpg
     alt: "vision"
     title: "Bildverarbeitung"
-    excerpt: "Bildverarbeitung, Maschinelles Lernen, High Performance Computing - echte Herausforderungen für Computer und Entwickler."
+    excerpt: "Bildverarbeitung, Maschinelles Lernen, High Performance Computing - echte Herausforderungen für Hard- und Software."
     url: "/vision/"
     btn_class: "btn--primary"
     btn_label: "Mehr erfahren"

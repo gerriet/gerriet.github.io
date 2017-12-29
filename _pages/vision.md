@@ -2,8 +2,8 @@
 permalink: /vision/
 title: "Bildverarbeitung, Maschinelles Lernen"
 layout: single
-#header: 
-#    image: /assets/images/altes_rathaus_breit.jpg
+header: 
+    image: /assets/images/vision_horizontal.jpg
 ---
 Nicht umsonst gehören die Kameras zu den beliebtesten Features von Smartphones - manche würden lieber auf die Fähigkeit zum Telefonieren verzichten als auf die Kamera. Das Verarbeiten von Bilddaten gehört zu den herausfordernsten Themen in der App-Entwicklung. 
 
