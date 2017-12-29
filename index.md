@@ -2,13 +2,13 @@
 layout: splash
 permalink: /
 header:
-  overlay_color: "transparent"
-  overlay_filter: 0.05
-  overlay_image: /assets/images/einbacker_quer_400.png
+#  overlay_color: "transparent"
+#  overlay_filter: 0.05
+#  overlay_image: /assets/images/einbacker_quer_400.png
   cta_label: "<i class='fa fa-envelope'></i> Kontakt"
   cta_url: "/contact"
   caption:
-excerpt: 'Willkommen bei Einbacker Software! Hier finden Sie Untersützung für Ihre mobile Softwareentwicklung.'
+#excerpt: 'Willkommen bei Einbacker Software! Hier finden Sie Unterstützung für Ihre mobile Softwareentwicklung.'
 feature_row:
   - image_path: /assets/images/mobile_500_-_pexels-541522.jpg
     alt: "mobile"
@@ -33,7 +33,8 @@ feature_row:
     btn_label: "Mehr erfahren"
 #github:
 #  - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
-#intro:
+intro:
+  - excerpt: 'Willkommen bei Einbacker Software!<br> Hier finden Sie Unterstützung für Ihre mobile Softwareentwicklung.'
 #  - excerpt: 'Get notified when I add new stuff &nbsp; [<i class="fa fa-twitter"></i> @einbacker](https://twitter.com/einbacker){: .btn .btn--twitter}'
 ---
 
