@@ -13,7 +13,7 @@ feature_row:
   - image_path: /assets/images/mobile_500_-_pexels-541522.jpg
     alt: "mobile"
     title: "Mobiles"
-    excerpt: "Mobiles Arbeiten liegt im Trend. Apps für Smartphones und Tablets werden im Business immer wichtiger. Geben Sie Ihren Mitarbeitern die Werkzeuge an die Hand, um überall produktiv sein zu können."
+    excerpt: "Mobiles Arbeiten liegt im Trend. Apps für Smartphones und Tablets werden auch im Business immer wichtiger. Geben Sie Ihren Mitarbeitern die Werkzeuge an die Hand, um überall und jederzeit produktiv sein zu können."
     url: "/mobile/"
     btn_class: "btn--primary"
     btn_label: "Mehr erfahren"

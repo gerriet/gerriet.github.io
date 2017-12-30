@@ -17,7 +17,7 @@ description              : "Einbacker Software, Dr. Gerriet Backer, Freelancer."
 url                      : "https://gerriet.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "gerriet/gerriet.github.io"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : /assets/images/einbacker_logo.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
@@ -182,7 +182,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Berlin # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
@@ -252,3 +252,4 @@ defaults:
       comments: # true
       share: true
       related: true
+#      image: /assets/images/einbacker_logo.png
