@@ -8,7 +8,7 @@ header:
   cta_label: "<i class='fa fa-envelope'></i> Kontakt"
   cta_url: "/contact"
   caption:
-#excerpt: 'Willkommen bei Einbacker Software! Hier finden Sie Unterstützung für Ihre mobile Softwareentwicklung.'
+#excerpt: 'Willkommen bei einbacker Software! Hier finden Sie Unterstützung für Ihre mobile Softwareentwicklung.'
 feature_row:
   - image_path: /assets/images/mobile_500_-_pexels-541522.jpg
     alt: "mobile"
@@ -17,7 +17,8 @@ feature_row:
     url: "/mobile/"
     btn_class: "btn--primary"
     btn_label: "Mehr erfahren"
-  - image_path: /assets/images/vision_500_-_pexels-132700.jpg
+  - image_path: /assets/images/augmented_500_-_pexels-166055.jpg 
+    #/assets/images/vision_500_-_pexels-132700.jpg
     alt: "vision"
     title: "Bildverarbeitung"
     excerpt: "Bildverarbeitung, Maschinelles Lernen, High Performance Computing - echte Herausforderungen für Hard- und Software."
@@ -34,7 +35,7 @@ feature_row:
 #github:
 #  - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 intro:
-  - excerpt: 'Willkommen bei Einbacker Software!<br> Hier finden Sie Unterstützung für Ihre mobile Softwareentwicklung.'
+  - excerpt: 'Willkommen bei einbacker Software!<br> Hier finden Sie Unterstützung für Ihre mobile Softwareentwicklung.'
 #  - excerpt: 'Get notified when I add new stuff &nbsp; [<i class="fa fa-twitter"></i> @einbacker](https://twitter.com/einbacker){: .btn .btn--twitter}'
 ---
 
