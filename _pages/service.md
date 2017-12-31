@@ -15,3 +15,5 @@ Ich begleite Sie dabei, sich digital und mobil zu verstärken, Geschäftsprozess
 Meine umfangreichen Erfahrungen in der Konzeption, Projektleitung, Entwicklung, Architektur, Infrastruktur und Test von Software erlauben mir, auch für Sie wertvolle Beiträge zum Gelingen Ihres Softwareprojektes zu leisten.
 
 Darüber hinaus haben Sie den Vorteil, dass es genau einen Ansprechpartner gibt, der das ganze Projekt im Blick hat, was den persönlichen Kontakt und das Beachten __Ihrer__ speziellen Wünsche vereinfacht und verbessert.
+
+Mein Ziel habe ich dann erreicht, wenn sich Ihr Unternehmen, Ihre Arbeit, Ihre Zufriedenheit und die Ihres Teams nachhaltig verbessert haben. 
