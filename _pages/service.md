@@ -17,3 +17,5 @@ Meine umfangreichen Erfahrungen in der Konzeption, Projektleitung, Entwicklung, 
 Darüber hinaus haben Sie den Vorteil, dass es genau einen Ansprechpartner gibt, der das ganze Projekt im Blick hat, was den persönlichen Kontakt und das Beachten __Ihrer__ speziellen Wünsche vereinfacht und verbessert.
 
 Mein Ziel habe ich dann erreicht, wenn sich Ihr Unternehmen, Ihre Arbeit, Ihre Zufriedenheit und die Ihres Teams nachhaltig verbessert haben. 
+
+Machen Sie den ersten Schritt und [vereinbaren ein unverbindlichen Gespräch](/contact).

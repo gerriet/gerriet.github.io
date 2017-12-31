@@ -13,6 +13,8 @@ Smartphones und Tablets sind nicht nur aus unserem privaten Leben nicht mehr weg
 
 Die nachwachsenden Arbeitskräfte sehen vielfach den klassischen Computer als Fremdkörper, gehen aber selbstverständlich effizient mit Smartphones und Tablets um. 
 
+Aus den genannten Gründen wird es für Firmen immer wichtiger, eine mobile digitale Strategie zu schaffen und umzusetzen. Und die sollte nicht einfach darin bestehen, die bisherigen Tools eins-zu-eins auf mobile Geräte zu übertragen. Es geht vielmehr darum, die Möglichkeiten auszuloten, Arbeitsabläufe zu verbessern, flexibler zu machen und neu zu gestalten. 
+
 So setze ich für die Firma [Haka Kunz](https://www.haka.de/) eine mobile App für die Berater im Direktvertrieb um, die einen schnellen Zugriff auf die Kunden, geplante Besuche, Probenaktionen und vieles mehr ermöglicht. 
 
 Ich [berate](/contact) Sie gerne bei der Umsetzung Ihrer mobilen Strategie.
