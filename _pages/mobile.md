@@ -17,4 +17,6 @@ Aus den genannten Gründen wird es für Firmen immer wichtiger, eine mobile digi
 
 So setze ich für die Firma [Haka Kunz](https://www.haka.de/) eine mobile App für die Berater im Direktvertrieb um, die einen schnellen Zugriff auf die Kunden, geplante Besuche, Probenaktionen und vieles mehr ermöglicht. 
 
+Mein besonderer Schwerpunkt liegt im Bereich iOS und Swift.
+
 Ich [berate](/contact) Sie gerne bei der Umsetzung Ihrer mobilen Strategie.
