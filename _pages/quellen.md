@@ -3,12 +3,23 @@ title: "Quellennachweis"
 permalink: /quellen
 layout: single
 # Photo by Melinda Pack on Unsplash
-# Augmented Reality - By OyundariZorigtbaatar (Own work) [<a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>], <a href="https://commons.wikimedia.org/wiki/File%3AAugmented-reality.jpg">via Wikimedia Commons</a>
 ---
 
 ## Logo Einbacker Software
 
 [Anna-Sophia Salzwedel Grafikdesign](https://www.anso-salzwedel.de)
+
+## Mobile
+- [rawpixel.com](https://www.pexels.com/de/u/rawpixel/)
+- [Link](https://www.pexels.com/de/foto/arbeit-arbeiten-bart-brainstorming-541522/)
+
+## Vision
+- [Sebastian Voortmann](https://www.pexels.com/de/u/sebastian/)
+- [Link](https://www.pexels.com/de/foto/draussen-fahrrad-kind-madchen-166055/)
+
+## Service
+- [Chevanon Photography](https://www.pexels.com/de/u/chevanon/)
+- [Link](https://www.pexels.com/de/foto/becher-bedienung-cafe-espresso-302898/)
 
 ## Projekte / Visuelle Aufmerksamkeit im Computersehen
 
@@ -16,3 +27,7 @@ layout: single
 - Focus image: [Alpha Stock Images](http://alphastockimages.com/)
 - Original Author: [Nick Youngson](http://www.nyphotographic.com/)
 - [Original Image](http://thebluediamondgallery.com/tablet-dictionary/f/focus.html)
+
+## Blog
+
+Alle Podcastlogos stammen von den entsprechenden Podcastanbietern. 
