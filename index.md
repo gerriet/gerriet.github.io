@@ -35,7 +35,7 @@ feature_row:
 #github:
 #  - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 intro:
-  - excerpt: 'Willkommen bei einbacker Software!<br> Hier finden Sie Unterstützung für Ihre mobile Softwareentwicklung.'
+  - excerpt: '<h2>Willkommen bei einbacker Software!<br> Hier finden Sie Unterstützung für Ihre mobile Softwareentwicklung.<h2>'
 #  - excerpt: 'Get notified when I add new stuff &nbsp; [<i class="fa fa-twitter"></i> @einbacker](https://twitter.com/einbacker){: .btn .btn--twitter}'
 ---
 
