@@ -4,13 +4,13 @@ title:  "Diese Woche in Podcasts (31.12.17)"
 date:   2018-01-03 12:15:00 +0200
 categories: podcasts
 ---
-Die abschliessende Folge für 2017.
+Ein letztes Mal in 2017: eine Auswahl interessanter Podcasts der vergangenen Woche(n).
 
 ## Vorstellung
 
-![top]{: .podcast-image } [Top Four](https://www.relay.fm/topfour/) von [Marco Arment](https::/marco.org/) und seiner Frau [Tiffany Arment](https://twitter.com/tiffanyarment) unterscheidet sich doch erheblich von den sonst hier erwähnten Podcasts. Für jede Folge suchen sie sich ein recht spezifisches Gebiet, für das sie beide die jeweils vier besten Exemplare bestimmen. Dabei kann es um [Musik](https://www.relay.fm/topfour/30), [Filme](https://www.relay.fm/topfour/12), [Videospiele](https://www.relay.fm/topfour/34), [Podcasts](https://www.relay.fm/topfour/5) und [häufiger](https://www.relay.fm/topfour/10) [auch](https://www.relay.fm/topfour/14) um [Essen](https://www.relay.fm/topfour/19) oder [Trinken](https://www.relay.fm/topfour/16) gehen. Wobei wohl eine Grundregel ist, dass sich keiner an das angebliche Format hält und genau vier Einträge in eindeutiger Reihenfolge präsentiert, was zu sehr unterhaltsamen Diskussionen führen kann. 
+![top]{: .podcast-image } [Top Four](https://www.relay.fm/topfour/) von [Marco Arment](https://marco.org/) und seiner Frau [Tiffany Arment](https://twitter.com/tiffanyarment) unterscheidet sich doch erheblich von den sonst hier erwähnten Podcasts. Für jede Folge suchen sie sich ein recht spezifisches Gebiet, für das sie beide die jeweils vier besten Exemplare bestimmen. Dabei kann es um [Musik](https://www.relay.fm/topfour/30), [Filme](https://www.relay.fm/topfour/12), [Videospiele](https://www.relay.fm/topfour/34), [Podcasts](https://www.relay.fm/topfour/5) und [häufiger](https://www.relay.fm/topfour/10) [auch](https://www.relay.fm/topfour/14) um [Essen](https://www.relay.fm/topfour/19) oder [Trinken](https://www.relay.fm/topfour/16) gehen. Wobei wohl eine Grundregel ist, dass sich keiner an das angebliche Format hält und genau vier Einträge in eindeutiger Reihenfolge präsentiert, was zu sehr unterhaltsamen Diskussionen führen kann. 
 
-In der aktuellen [Episode #35](https://www.relay.fm/topfour/35) geht es um Pies und es wird natürlich ausführlich diskutiert, welche Gerichte überhaupt zu den Pies gehören (vielleicht eine Idee für eine zukünftige Folge von [Robot or nor](https://www.theincomparable.com/robot/)).
+In der aktuellen [Episode #35](https://www.relay.fm/topfour/35) geht es um Pies und es wird natürlich ausführlich diskutiert, welche Gerichte überhaupt zu den Pies gehören (vielleicht eine Idee für eine zukünftige Folge von [Robot or not](https://www.theincomparable.com/robot/)).
 
 ## Die üblichen Verdächtigen
 
@@ -28,7 +28,7 @@ Prinzipiell kann man natürlich trotzdem fragen, ob sich Apple genug Mühe damit
 
 ## Deutschsprachig / Vorstellung
 
-Der Podcast [Fehlfarben](https://fehlfarbenpodcast.wordpress.com) aus München beschäftigt sich mit Kunst. Das Konzept ist, dass die drei Podcaster sich eine oder mehrere Ausstellungen anschauen und dann darüber berichten und nebenbei drei mitgebrachte Weine blind verkosten, was nicht unerheblich zur Auflockerung beiträgt. Die Pocaster sind [Anke Gröner](http://ankegroener.de), die seit über 14 Jahren bloggt (auch hier klare Empfehlung) und gerade beginnt, in Kunstgeschichte zu promovieren, [Felix](https://sammysagt.wordpress.com), in dessen Blog auch immer wieder Museen und Kunst auftauchen, ebenso wie im Twitterstream von [Florian](https://twitter.com/munifornication). Nun bin ich selbst niemand, der sich ausführlich mit Kunst beschäftigt oder je von sich behaupten würde, Ahnung davon zu haben. Aber die Art wie sich die 3 den Ausstellungen nähern, sie erlebbar machen und mir (ohne dass dazu ein theoretischer kunsthistorischer Hintergrund notwendig wäre) mir die Kunst verständlich machen, ist einfach hörenswert. 
+Der Podcast [Fehlfarben](https://fehlfarbenpodcast.wordpress.com) aus München beschäftigt sich mit Kunst. Das Konzept ist, dass die drei Podcaster eine oder mehrere Ausstellungen (oder andere Kulturveranstaltungen) besuchen und dann darüber berichten und nebenbei drei mitgebrachte Weine blind verkosten, was nicht unerheblich zur Auflockerung beiträgt. Die Pocaster sind [Anke Gröner](http://ankegroener.de), die seit über 14 Jahren bloggt (auch hier klare Empfehlung) und gerade beginnt, in Kunstgeschichte zu promovieren, [Felix](https://sammysagt.wordpress.com), in dessen Blog auch immer wieder Museen und Kunst auftauchen, ebenso wie im Twitterstream von [Florian](https://twitter.com/munifornication). Nun bin ich selbst niemand, der sich ausführlich mit Kunst beschäftigt oder je von sich behaupten würde, Ahnung davon zu haben. Aber die Art wie sich die 3 den Ausstellungen nähern, sie erlebbar machen und mir (ohne dass dazu ein theoretischer kunsthistorischer Hintergrund notwendig wäre) mir die Kunst verständlich machen, ist einfach hörenswert. 
 
 In [Fehlfarben #11](https://fehlfarbenpodcast.wordpress.com/2017/11/20/fehlfarben-11-mark-steinmetz-martin-parr/) geht es um Ausstellungen der Fotografen Mark Steinmetz und Martin Parr. 
 
