@@ -1,7 +1,7 @@
 ---
 layout: single
-#title:  "Diese Woche in Podcasts (21.01.18)"
-#date:   2018-01-22 21:00:00 +0200
+title:  "Diese Woche in Podcasts (21.01.18)"
+date:   2018-01-22 21:00:00 +0200
 categories: podcasts
 ---
 
