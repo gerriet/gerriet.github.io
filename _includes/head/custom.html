@@ -14,4 +14,29 @@
 <meta name="application-name" content="einbacker Software">
 <meta name="theme-color" content="#ffffff">
 
+<!-- Cookie Warning, https://cookieconsent.insites.com/download/# -->
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#808080",
+      "text": "#e6e6e6"
+    },
+    "button": {
+      "background": "#ff781b"
+    }
+  },
+  "theme": "classic",
+  "position": "bottom-right",
+  "content": {
+    "message": "Diese Webseite verwendet Cookies, um bestmögliche Funktionalität bieten zu können.",
+    "dismiss": "OK, verstanden.",
+    "link": "Mehr erfahren"
+  }
+})});
+</script>
+
 <!-- end custom head snippets -->

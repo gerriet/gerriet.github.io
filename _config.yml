@@ -13,7 +13,7 @@ locale                   : "de"
 title                    : "Einbacker Software"
 title_separator          : "-"
 name                     : "Gerriet Backer"
-description              : "Einbacker Software, Dr. Gerriet Backer, Freelancer."
+description              : "Einbacker Software, Dr. Gerriet Backer, Freelancer for mobile and vision software development."
 url                      : "" # "https://gerriet.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "gerriet/gerriet.github.io"
@@ -66,7 +66,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : /assets/images/einbacker_logo.png # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -242,6 +242,11 @@ compress_html:
 
 # Defaults
 defaults:
+  # all
+#  - scope:
+#      path: ""
+#    values:
+#      image: /assets/images/einbacker_logo.png
   # _posts
   - scope:
       path: ""
@@ -253,4 +258,5 @@ defaults:
       comments: # true
       share: true
       related: true
-#      image: /assets/images/einbacker_logo.png
+      image: /assets/images/einbacker_logo.png
+
