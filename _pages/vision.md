@@ -12,7 +12,7 @@ Nicht umsonst gehören die Kameras zu den beliebtesten Features von Smartphones 
 
 Wir gehen immer mehr weg von der Vorstellung eines Computers als Datenbank zum Verwalten eingegebener Daten und Texte. Immer neue Anwendungen beruhen auf der Verarbeitung und Interpretation umfangreicher Sensordaten, wie zum Beispiel Audio, Photo und Video. Die aufkommende Augmented Reality verbindet die äußere Realität mit computererzeugten _virtuellen_ Objekten. Die Verarbeitung besonders vieler Daten (Big Data) braucht intelligente Verfahren, um aus diesen Daten die bedeutsamen Informationen zu extrahieren. Maschinelles Lernen erlaubt, über explizit ausprogrammierte Strategien hinauszugehen, indem der Computer aus neuen Daten lernt und sich anpasst. 
 
-Diese Bereiche gehören zu meinen Spezialgebieten und gerne helfe ich Ihnen bei kompletten Anwendungen in den genannten Bereichen oder der Ergänzung eines spezifischen Features, sei es auf Mobilgeräten oder auf dem Desktop bzw. Server. [Sprechen](/contact) Sie mich einfach an.
+Diese Themen gehören zu meinen Spezialgebieten und gerne helfe ich Ihnen bei kompletten Anwendungen in den genannten Bereichen oder der Ergänzung eines spezifischen Features, sei es auf Mobilgeräten oder auf dem Desktop bzw. Server. [Sprechen](/contact) Sie mich einfach an.
 
 Zu meinen bisherigen Projekten mit Bildverarbeitungshintergrund bzw. im Themenbereich Maschineller Intelligenz gehören:
 * [Bildinspektion zur optischen Qualitätskontrolle](/projects/image_inspection)

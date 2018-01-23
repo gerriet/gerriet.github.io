@@ -18,4 +18,4 @@ Darüber hinaus haben Sie den Vorteil, dass es genau einen Ansprechpartner gibt,
 
 Mein Ziel habe ich dann erreicht, wenn sich Ihr Unternehmen, Ihre Arbeit, Ihre Zufriedenheit und die Ihres Teams nachhaltig verbessert haben. 
 
-Machen Sie den ersten Schritt und [vereinbaren ein unverbindlichen Gespräch](/contact).
+Machen Sie den ersten Schritt und [vereinbaren ein unverbindliches Gespräch](/contact).
