@@ -10,7 +10,7 @@ header:
 ---
 _Oder: es muss nicht immer Wordpress sein_
 
-Vielen fällt als erstes [Wordpress](http://wordpress.org) ein, wenn es darum geht, eine Webseite oder ein Blog zu bauen. [Ungeheuer viele Seiten](https://www.codeinwp.com/blog/wordpress-statistics/) sind darauf aufgebaut. Es ist ein sehr mächtiges und allgemeines Werkzeug, das man mit einer großen Zahl von Themes und Plugins auf seinen eigenen Bedarf zurecht konfigurieren kann. Aber für viele Aufgaben ist es damit nicht der beste und vor allem nicht der einfachste Ansatz. Auf der Suche nach einer guten Lösung für mich bin ich auf [Jekyll](jekyllrb.com) gestoßen. 
+Vielen fällt als erstes [Wordpress](http://wordpress.org) ein, wenn es darum geht, eine Webseite oder ein Blog zu bauen. [Ungeheuer viele Seiten](https://www.codeinwp.com/blog/wordpress-statistics/) sind darauf aufgebaut. Es ist ein sehr mächtiges und allgemeines Werkzeug, das man mit einer großen Zahl von Themes und Plugins auf seinen eigenen Bedarf zurecht konfigurieren kann. Aber für viele Aufgaben ist es damit nicht der beste und vor allem nicht der einfachste Ansatz. Auf der Suche nach einer guten Lösung für mich bin ich auf [Jekyll](https://jekyllrb.com) gestoßen. 
 
 ![Jekyll logo](/assets/images/jekyll-logo-2x.png)
 
