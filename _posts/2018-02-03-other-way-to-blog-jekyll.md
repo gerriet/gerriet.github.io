@@ -5,6 +5,8 @@ permalink: andere-art-zu-bloggen-mit-jekyll
 date: 2018-02-03 19:00:00 +0200
 categories: technology
 keywords: jekyll web
+header:
+    og_image: /assets/images/jekyll-logo-2x.png
 ---
 _Oder: es muss nicht immer Wordpress sein_
 
