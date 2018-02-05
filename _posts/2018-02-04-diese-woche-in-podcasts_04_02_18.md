@@ -7,7 +7,7 @@ header:
     og_image: /assets/images/podcast_640.png
 ---
 
-![logo]{: .podcast-image } Eigentlich "Diese Wochen in Podcasts" (im Englischen gibt es das schöne Wort fortnight für 14 Tage), denn die letzte Ausgabe ist einer Magen-Darm-Grippe zum Opfer gefallen. Daher auch keine Neuvorstellung, aber zum Teil mehrere Folgen eines Podcasts.
+![logo]{: .podcast-image } _Eigentlich "Diese Wochen in Podcasts" (im Englischen gibt es das schöne Wort fortnight für 14 Tage), denn die letzte Ausgabe ist einer Magen-Darm-Grippe zum Opfer gefallen. Daher zum Teil mehrere Folgen eines Podcasts._
 
 ## Die üblichen Verdächtigen
 

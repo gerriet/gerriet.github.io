@@ -3,11 +3,17 @@ layout: single
 title:  "Diese Woche in Podcasts (21.01.18)"
 date:   2018-01-22 21:00:00 +0200
 categories: podcasts
+header:
+    og_image: /assets/images/podcast_640.png
 ---
+
+![logo]{: .podcast-image }  _Der wöchentliche Podcast-Überblick_ 
+<br><br><br>
+
 
 ## Neuvorstellung
 
-[Swift by Sundell](https://www.swiftbysundell.com/podcast/) von [John Sundell](https://twitter.com/johnsundell) läuft seit einem halben Jahr etwa alle zwei Wochen. Darin spricht er mit Gästen über Swift, wobei der Schwerpunkt das Beantworten von Hörerfragen ist. Die Podcasts sind dabei eher kompakt gehalten, dauern etwa 30 Minuten.
+![sundell]{: .podcast-image } [Swift by Sundell](https://www.swiftbysundell.com/podcast/) von [John Sundell](https://twitter.com/johnsundell) läuft seit einem halben Jahr etwa alle zwei Wochen. Darin spricht er mit Gästen über Swift, wobei der Schwerpunkt das Beantworten von Hörerfragen ist. Die Podcasts sind dabei eher kompakt gehalten, dauern etwa 30 Minuten.
 
 In [Folge #3](https://www.swiftbysundell.com/podcast/3) erklären [Anastasiia Voitova](https://twitter.com/vixentael) und [Marcin Krzyzanowski](https://twitter.com/krzyzanowskim) wichtige Aspekte von Sicherheit und Kryptographie. In [Folge #6](https://www.swiftbysundell.com/podcast/6) beantwortet [Agnes Vasarhelyia](https://twitter.com/vasarhelyia) Fragen aus einem großen Spektrum: zu den kulturellen und arbeitstechnischen Unterschieden zwischen Budapest und San Francisco und wie man erfolgreich "networkt", Meetings und Konferenzen organisiert bis hin zu Fragen nach Augmented Reality und wie man in die iOS-Entwicklung einsteigt. 
 
@@ -23,6 +29,8 @@ In [Fehlfarben #12](https://fehlfarbenpodcast.wordpress.com/2017/12/18/fehlfarbe
 
 Einhelliger positiv wird die Ausstellung von Hisako Inoue besprochen, bei der es hauptsächlich darum geht, den Geruch und das Gefühl von Büchern wahrzunehmen. Was zuerst etwas befremdlich und wie ein Gimmick klingt, stellt sich als überaus spannend und vielschichtig dar und erreicht eindeutig eines der Ziele von Kunst, nämlich die Wahrnehmung der Kunstbetrachter (oder wie hier: Kunstriecher) zu verändern.
 
+[logo]: /assets/images/podcast_180.png "Podcast logo"
+
 [abteilung]: /assets/images/die_neue_abteilung_400x400.jpg "Die neue Abteilung"
 [agents]: /assets/images/freeagents_artwork.png.jpg "Free Agents"
 [analogue]: /assets/images/analogue_400.jpg "Analog(ue)"
@@ -34,5 +42,6 @@ Einhelliger positiv wird die Ausstellung von Hisako Inoue besprochen, bei der es
 [mpu]: /assets/images/mpu_350.png "Mac Power Users"
 [radar]: /assets/images/radar_artwork.png "Under the Radar"
 [release]: /assets/images/release_notes_logo.png "Release Notes"
+[sundell]: /assets/images/sundell_315.jpg
 [talk]: /assets/images/talkshow_170x170bb.jpg "The Talk Show"
 [timetable]: /assets/images/timetable.png "Timetable"
