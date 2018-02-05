@@ -31,3 +31,4 @@ layout: single
 ## Blog
 
 Alle Podcastlogos stammen von den entsprechenden Podcastanbietern. 
+- [Podcast logo](https://pixabay.com/de/podcast-beliebt-zeigt-ankündigung-2665179/)
