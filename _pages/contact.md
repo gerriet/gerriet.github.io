@@ -7,7 +7,7 @@ Was kann ich für Sie tun? Am besten schreiben Sie mir kurz, worum es geht und w
 
 * Email: [gerriet@einbacker.com](mailto:gerriet@einbacker.com)
 * Telefon: 05561/6092694 
-* Twitter: [gerriet](https://twitter.com/gerriet)
+* Twitter: [einbacker](https://twitter.com/einbacker)
 
 <form action="https://formspree.io/gerriet@einbacker.com"
       method="POST">
