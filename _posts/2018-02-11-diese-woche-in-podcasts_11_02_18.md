@@ -14,9 +14,9 @@ header:
 
 ![canvas]{: .podcast-image } Canvas: Ein Schotte und ein Italiener machen einen Podcast. Klingt ein bisschen wie der Anfang eines Witzes, ist aber eine Abwechslung von sonstigen US-amerikanischen Schwerpunkt der Podcasts. [Canvas](https://relay.fm/canvas) ist ein weiterer Podcast des [relay.fm-Netzwerks](https://relay.fm) und die Gastgeber sind [Frasier Speirs](http://www.speirs.org) und [Federico Viticci](http://twitter.com/viticci). 
 
-Frasier betreut den Einsatz von mobilen Technologien an Schulen. Federico schreibt auf [MacStories](https://macstories.net) und ist in mehreren anderen Podcasts zu hören. In Canvas befassen die beiden sich ausschließlich mit dem Thema der mobilen Produktivität: wie kann man mit iOS-Geräten am besten Dinge erledigen, was sind die nützlichsten Apps und Workflows. 
+Frasier betreut den Einsatz von mobilen Technologien an Schulen. Federico schreibt auf [MacStories](https://macstories.net) und ist in mehreren anderen Podcasts zu hören. In Canvas befassen die beiden sich ausschließlich mit dem Thema der mobilen Produktivität: wie kann man mit iOS-Geräten (also iPhones und iPads) am besten Dinge erledigen, was sind die nützlichsten Apps und Workflows. 
 
-So geht es in Episode [#52](https://relay.fm/canvas/52) um das Thema ssh unter iOS. ssh steht für [Secure Shell](https://de.wikipedia.org/wiki/Secure_Shell) und ist eine Möglichkeit, sich auf anderen Computern sicher anzumelden und dort Befehle auszuführen. Frasier erklärt dazu, was man über ssh alles machen kann, auf welche Art ssh Sicherheit bietet, wie Sicherheit über Schlüsselpaare anstelle von Passwörtern funktioniert und die Unterschiede der verschiedenen Apps für ssh. 
+So geht es in Episode [#52](https://relay.fm/canvas/52) um das Thema ssh unter iOS. ssh steht für [Secure Shell](https://de.wikipedia.org/wiki/Secure_Shell) und ist eine Möglichkeit, sich auf anderen Computern sicher anzumelden und dort Befehle auszuführen. Frasier erklärt dazu, was man über ssh alles machen kann, auf welche Art ssh Sicherheit bietet, inwiefern die Anmeldung über [Schlüsselpaare](https://de.wikipedia.org/wiki/Public-Key-Authentifizierung) anstelle von Passwörtern komfortabler und sicherer ist und die Unterschiede der verschiedenen Apps für ssh. 
 
 ## Die üblichen Verdächtigen
 
