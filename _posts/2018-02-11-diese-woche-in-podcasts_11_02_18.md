@@ -49,6 +49,9 @@ Zu den Aspekten gehört als erstes natürlich die Frage, wie die Entwicklung str
 
 Wenn man so alles einbezieht, gibt es - hier wird dann doch mal eine Zahl genannt - kaum sinnvolle Apps, die sich unter 10.000€ erstellen lassen. Wobei natürlich der Fall ausgenommen ist, bei dem man die brilliante App-Idee selber oder mit Freunden in der Freizeit umsetzt. 
 
+__Update (13.02.18):__ Wie zu vielen anderen Folgen gibt es jetzt auch zu Folge 25 einen eigenen empfehlenswerten [Blogeintrag](https://www.dieneueabteilung.de/blog/2018/2/13/die-preisfrage-wie-viel-kostet-eine-app) bei der neuen Abteilung.
+
+
 [logo]: /assets/images/podcast_180.png "Podcast logo"
 
 [abteilung]: /assets/images/die_neue_abteilung_400x400.jpg "Die neue Abteilung"
