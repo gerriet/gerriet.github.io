@@ -17,6 +17,9 @@ layout: single
 - [Sebastian Voortmann](https://www.pexels.com/de/u/sebastian/)
 - [Link](https://www.pexels.com/de/foto/draussen-fahrrad-kind-madchen-166055/)
 
+[//]: # Photo by [Josh Calabrese](https://unsplash.com/photos/qmnpqDwla_E) on [Unsplash](https://unsplash.com/)
+[//]: # Photo by [Jakob Owens](https://unsplash.com/photos/T45qqDYFpsY) on [Unsplash](https://unsplash.com/)
+
 ## Service
 - [Chevanon Photography](https://www.pexels.com/de/u/chevanon/)
 - [Link](https://www.pexels.com/de/foto/becher-bedienung-cafe-espresso-302898/)
@@ -32,3 +35,7 @@ layout: single
 
 Alle Podcastlogos stammen von den entsprechenden Podcastanbietern. 
 - [Podcast logo](https://pixabay.com/de/podcast-beliebt-zeigt-ankündigung-2665179/)
+
+### Braucht meine Firma eine mobile App?
+- [rawpixel.com](https://unsplash.com/@rawpixel)
+- [Woman using phone in car](https://unsplash.com/photos/d3Nh53dGvzE)
