@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Braucht meine Firma eine mobile App?"
-date:   2018-02-27 18:30:00 +0200
+date:   2018-02-28 10:10:00 +0200
 categories: 
     - mobile
 header:
