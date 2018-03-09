@@ -36,6 +36,10 @@ layout: single
 Alle Podcastlogos stammen von den entsprechenden Podcastanbietern. 
 - [Podcast logo](https://pixabay.com/de/podcast-beliebt-zeigt-ankündigung-2665179/)
 
+### Warum versteht mich mein Entwickler nicht?
+- Microphone, boy by [Jason Rosewell](https://unsplash.com/@jasonrosewell) at [Unsplash](https://unsplash.com/photos/ASKeuOZqhYU)
+- Whispers in the street by [London Scout](https://unsplash.com/@scoutthecity) at [Unsplash](https://unsplash.com/photos/YLMs82LF6FY)
+
 ### Braucht meine Firma eine mobile App?
 - [rawpixel.com](https://unsplash.com/@rawpixel)
 - [Woman using phone in car](https://unsplash.com/photos/d3Nh53dGvzE)

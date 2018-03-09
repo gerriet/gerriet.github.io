@@ -1,11 +1,10 @@
 ---
 layout: single
 title:  "Braucht meine Firma eine mobile App?"
+excerpt: "Ja!"
 date:   2018-02-28 10:10:00 +0200
-categories: 
-    - mobile
-header:
-#    image: /assets/images/brauchen_wir_mobile_apps/rawpixel-com-340967-unsplash.jpg
+categories: mobile
+tags: business
 ---
 
 ![Using phone](/assets/images/rawpixel-com-340967-unsplash.jpg)
